@@ -8,3 +8,8 @@
  completion of both models and fitting them then scoring them my prediction do not come to 
  fruition. You will see that contrary to my prediction the Logistec Regression Model performed
  slightly better than my predicted Random Forest Classifier.
+ 
+ I went ahead and created a another two models with scaled data to see how it would affect my models
+ interestingly the scaled Logistic Regression model performed better than the original Logistic 
+ Regression model but the scaled Random Forest Classifier performed lower than the original Random 
+ Forest Model.
